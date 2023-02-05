@@ -1,7 +1,7 @@
 Hinda Abdullahi Osman
 ID C119884
 
-# firebase
+# chat App flutter and firebase
 
 A new Flutter project.
 
